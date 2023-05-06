@@ -14,6 +14,7 @@ class EthereumNetwork(Enum):
     UNKNOWN = -1
     OLYMPIC = 0
     MAINNET = 1
+    MAP = 212
     EXPANSE_NETWORK = 2
     ROPSTEN = 3
     RINKEBY = 4
